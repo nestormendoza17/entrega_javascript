@@ -1,0 +1,8 @@
+[
+    {"id": 1, "nombre": "Becho Riveiro", "titulo": "Cantor Carmense", "descripcion": "Músico nacido en los valles de Jujuy. Desde El Carmen al país."},
+    {"id": 2, "nombre": "Bruno Arias", "titulo": "Cantor Popular", "descripcion": "Artista Consagrado en todos los festivales. Referente del New Folk."},
+    {"id": 3, "nombre": "Cantoras", "titulo": "Dúo Femenino", "descripcion": "Proyecto musical nuevo. Mujeres jujeñas y cantoras."},
+    {"id": 4, "nombre": "Carlos Mamani", "titulo": "Cantautor Jujeño", "descripcion": "Compositor de la nueva generacion. Aportando al cancionero jujeño."},
+    {"id": 5, "nombre": "Copleros", "titulo": "Grupo Jujeño", "descripcion": "Hermanos del B° Santa Rosa de amplia trayectoria. Referentes del floclore jujeño."},
+    { "id": 6, "nombre": "Joaquín López", "titulo": "Intérprete Jujeño", "descripcion": "Músico apadrinado por Juan Falú. Nueva revelación jujeña."}
+]

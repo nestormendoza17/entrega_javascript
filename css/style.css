@@ -1,0 +1,19 @@
+.color_link {
+    color:rgb(29, 29, 4);
+}
+
+main {
+    background-color: aliceblue;
+}
+.fondo {
+    background-color: aliceblue;
+}
+.text-center presentacion {
+    font-size: medium;
+
+}
+footer {
+    color: white;
+    background-color: red;
+}
+
